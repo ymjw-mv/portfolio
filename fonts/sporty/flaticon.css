@@ -1,0 +1,165 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+	font-family: Flaticon;
+    font-size: 40px;
+	font-style: normal;
+}.flaticon-adventure-sports:before {
+	content: "\e000";
+}
+.flaticon-american-football5:before {
+	content: "\e001";
+}
+.flaticon-ball79:before {
+	content: "\e002";
+}
+.flaticon-baseball-equipment1:before {
+	content: "\e003";
+}
+.flaticon-basketball-equipment3:before {
+	content: "\e004";
+}
+.flaticon-bicycle31:before {
+	content: "\e005";
+}
+.flaticon-boxer3:before {
+	content: "\e006";
+}
+.flaticon-car222:before {
+	content: "\e007";
+}
+.flaticon-champion1:before {
+	content: "\e008";
+}
+.flaticon-chess-piece4:before {
+	content: "\e009";
+}
+.flaticon-chronometer3:before {
+	content: "\e00a";
+}
+.flaticon-dance15:before {
+	content: "\e00b";
+}
+.flaticon-dart1:before {
+	content: "\e00c";
+}
+.flaticon-dive8:before {
+	content: "\e00d";
+}
+.flaticon-foil:before {
+	content: "\e00e";
+}
+.flaticon-football7:before {
+	content: "\e00f";
+}
+.flaticon-football-game2:before {
+	content: "\e010";
+}
+.flaticon-football-referee:before {
+	content: "\e011";
+}
+.flaticon-golf2:before {
+	content: "\e012";
+}
+.flaticon-gym28:before {
+	content: "\e013";
+}
+.flaticon-gym29:before {
+	content: "\e014";
+}
+.flaticon-gymnasium:before {
+	content: "\e015";
+}
+.flaticon-hockey-equipment:before {
+	content: "\e016";
+}
+.flaticon-lifting:before {
+	content: "\e017";
+}
+.flaticon-martial-arts2:before {
+	content: "\e018";
+}
+.flaticon-mat:before {
+	content: "\e019";
+}
+.flaticon-medal69:before {
+	content: "\e01a";
+}
+.flaticon-mountain-sports2:before {
+	content: "\e01b";
+}
+.flaticon-mountain-sports4:before {
+	content: "\e01c";
+}
+.flaticon-podium8:before {
+	content: "\e01d";
+}
+.flaticon-pool:before {
+	content: "\e01e";
+}
+.flaticon-racket5:before {
+	content: "\e01f";
+}
+.flaticon-racket6:before {
+	content: "\e020";
+}
+.flaticon-row2:before {
+	content: "\e021";
+}
+.flaticon-shirt10:before {
+	content: "\e022";
+}
+.flaticon-shoes18:before {
+	content: "\e023";
+}
+.flaticon-skate14:before {
+	content: "\e024";
+}
+.flaticon-skate15:before {
+	content: "\e025";
+}
+.flaticon-skate16:before {
+	content: "\e026";
+}
+.flaticon-skiing11:before {
+	content: "\e027";
+}
+.flaticon-snow8:before {
+	content: "\e028";
+}
+.flaticon-sports-ball10:before {
+	content: "\e029";
+}
+.flaticon-sports-ball9:before {
+	content: "\e02a";
+}
+.flaticon-strategy11:before {
+	content: "\e02b";
+}
+.flaticon-surf12:before {
+	content: "\e02c";
+}
+.flaticon-swim6:before {
+	content: "\e02d";
+}
+.flaticon-tennis-ball:before {
+	content: "\e02e";
+}
+.flaticon-transport116:before {
+	content: "\e02f";
+}
+.flaticon-volleyball18:before {
+	content: "\e030";
+}
+.flaticon-water-sports1:before {
+	content: "\e031";
+}
