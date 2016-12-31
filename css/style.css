@@ -1669,7 +1669,7 @@ footer {
 /*Gallery*/
 .gallery_item {
 	width: 340px;
-	height: 239px
+	height: 340px
 }
 	.gallery_item {
 		width: 100%;
@@ -2631,7 +2631,7 @@ footer {
 	background: #000;
 }
 .black .schedule_item b, .black  .contact_item b {
-	color: #000
+	color: #000;
 }
 .black .schedule_title {
 	color: #000;
